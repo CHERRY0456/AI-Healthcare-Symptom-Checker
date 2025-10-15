@@ -1,4 +1,4 @@
-Check both the code 
+Check both the codes:
 
 -> streamlit_app.py should be run with api key present.
 
