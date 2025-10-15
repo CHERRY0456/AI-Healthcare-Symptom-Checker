@@ -202,4 +202,5 @@ if analyze or demo:
         else:
             st.write(result.get("raw", "Unexpected model output."))
 
-st.markdown("<div class='footer'>© 2025 Healthcare Symptom Checker — AI Educational Project</div>", unsafe_allow_html=True)
+st.markdown("<div class='footer'>© 2025 Healthcare Symptom Checker — AI Educational Project - developed by Jai Sri Charan</div>", unsafe_allow_html=True)
+
