@@ -3,7 +3,8 @@
 **Author:** Jai Sri Charan 
 **Built With:** Streamlit • Python • OpenAI GPT-4o • dotenv  
 **Tags:** LLM • Healthcare AI • Responsible AI • Educational Tool  
-
+app.py contains code without api key.
+streamlit_app.py code should have api key.
 ---
 
 ### Objective
@@ -109,4 +110,5 @@ Future Enhancements
 💬 Chat mode for multi-turn queries
 
 🗂️ SQLite-based persistent history
+
 
