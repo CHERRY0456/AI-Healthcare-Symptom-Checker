@@ -1,4 +1,4 @@
-# AI Healthcare Symptom Checker
+# Healthcare Symptom Checker
 
 **Author:** Jai Sri Charan 
 **Built With:** Streamlit • Python • OpenAI GPT-4o • dotenv  
@@ -109,3 +109,4 @@ Future Enhancements
 💬 Chat mode for multi-turn queries
 
 🗂️ SQLite-based persistent history
+
